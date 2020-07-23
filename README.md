@@ -1,3 +1,5 @@
+>This project is based on the [stub project](https://github.com/londonappbrewery/mi_card_flutter) from the Udemy course *The Complete 2020 Flutter Development Bootcamp with Dart* by Angela Yu.
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
